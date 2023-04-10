@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Henry Berg
+title: Eric Essington
 subtitle: University of Washington
 ---
 
@@ -15,8 +15,8 @@ subtitle: University of Washington
 
 
 ### Contact
- **Email:** [hberg@uw.edu](mailto:hberg@uw.edu)  
+ **Email:** [ece9@uw.edu](mailto:ece9@uw.edu)  
 
- **School:** School of Aquatic and Fishery Sciences
+ **School:** x
 
  **Mailing address:**

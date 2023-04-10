@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Henry Berg
+title: Eric Essington
 
 # Your name to show in the footer
-author: Henry Berg
+author: Eric Essington
 
 # --- List of links in the navigation bar --- #
 
@@ -40,9 +40,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hberg@uw.edu"
+  email: "ece9@uw.edu"
   ORCID:
-  github: "https://github.com/henryberg03"
+  github: "https://github.com/Eric-Ess"
   linkedin:
 
 #  reddit: yourname
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://github.com/henryberg03"
+url-pretty: "https://github.com/Eric-Ess"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
