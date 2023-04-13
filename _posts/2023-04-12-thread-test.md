@@ -42,5 +42,5 @@ data will be logged on [this](https://docs.google.com/spreadsheets/d/1GxLnNJjjjZ
 ![](https://monicaklopp.github.io/post_images/20220428/failure_mode.png)
 
 ## TODAY
-lots of pealers. I'm hoping weather or not they peel is very determined on how wet they are, it seemed if i wet them before force testing they were more likely to peel. All of them were at least damp. <br>
+lots of pealers. I'm hoping weather or not they peel is not  determined on how wet they are, it seemed if i wet them before force testing they were more likely to peel. All of them were at least damp though. <br> <br>
 3 hours (1-4 pm)
