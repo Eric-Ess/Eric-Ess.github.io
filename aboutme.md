@@ -22,4 +22,3 @@ I'm also a very experienced outdoorsman and wilderness trip leader.
  **School:** UW Arts and Sciences
 
  **Mailing address:**
-5500 Brooklyn Ave NE Seattle WA 98105
