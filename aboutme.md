@@ -10,9 +10,8 @@ subtitle: University of Washington
 
 
 ### Background
-Undergraduate in majoring in Biology: Physiology. Minor in Philosophy. Interested in how organisms respond to environmental change, both aquatic and terrestrial.
+Undergraduate in majoring in Biology: Physiology. Minor in Philosophy. Interested in how organisms respond to environmental change on the physiological level, both aquatic and terrestrial.
 <br> <br>
-I'm also a very experienced wilderness trip leader.
 
 ### Current Research
 Currently involved in Robert's Lab at UW school of aquatic and fishery sciences.
