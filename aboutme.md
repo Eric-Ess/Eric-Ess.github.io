@@ -5,7 +5,7 @@ subtitle: University of Washington
 ---
 
 ### Profiles
-[CV]() | [LinkedIn]()
+[CV]() | [LinkedIn](https://www.linkedin.com/in/eric-essington-83801b291/)
 
 
 
