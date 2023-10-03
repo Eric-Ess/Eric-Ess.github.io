@@ -9,6 +9,7 @@ comments: true
 ## Experimental Setup
 
 ![](/users/ericessington/documents/GitHub/Eric-Ess.github.io/post_images/100223/Setup.png)
+[image here until I figure out a better way](https://drive.google.com/file/d/1DDBfn6HiLk8mPmDF8JHMUp2jbKnqhGVp/view?usp=drive_link)
 Treatment on left, control on right
 
 Treatment: heated semi-gradually (+ ~2ºC per hour) up to 25ºC for 6 hr once per day. This will continue for the next couple weeks. Adults, juveniles were removed and mechanically stressed via a salad spinner for 15 minutes. This will be repeated probably once a week. <br><br>
