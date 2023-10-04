@@ -14,11 +14,10 @@ author: Eric Essington
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV:
+#  CV:
   About: "aboutme"
   Lab Notebook: "notebook"
-  Publications:
-
+# Publications:
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -39,7 +38,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ece9@uw.edu"
-  ORCID:
+#  ORCID:
   github: "https://github.com/Eric-Ess"
   linkedin: "https://www.linkedin.com/in/eric-essington-83801b291/"
 
