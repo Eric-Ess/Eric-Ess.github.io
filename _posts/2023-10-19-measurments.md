@@ -8,7 +8,7 @@ comments: true
 
 ## Measurements Logged
 
-![](https://github.com/Eric-Ess/Eric-Ess.github.io/blob/master/post_images/101923/youngins.png?raw=true)
+![](https://github.com/Eric-Ess/Eric-Ess.github.io/blob/master/post_images/101923/youngins.jpg?raw=true)
 Here is the second youngest life stage, I am calling these guys "youngins" unless somebody tells me not to ^ <br><br>
 ![](https://github.com/Eric-Ess/Eric-Ess.github.io/blob/master/post_images/101923/Control-Seed.png?raw=true)
 Here is the spat in the control tank ^ <br><br>
