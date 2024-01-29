@@ -8,7 +8,7 @@ comments: true
 
 ## RNA extractions begin
 
-Getting re-oriented with the lab space, wrote up the RNA extraction protocol I will be using. You can find it [here](https://docs.google.com/document/d/1goE9G98pyKh1g7xfuQ9TdRsmz2e4gMQ8xcoAYQryajI/edit?usp=sharing).
+Getting re-oriented with the lab space, wrote up the RNA extraction protocol I will be using. Protocol is [here](https://docs.google.com/document/d/1goE9G98pyKh1g7xfuQ9TdRsmz2e4gMQ8xcoAYQryajI/edit?usp=sharing).
 <br><br>
 Also measured juveniles in imageJ, logged onto [this spreadsheet](https://docs.google.com/spreadsheets/d/1rXzrqvx2DgyJKSye_WNktqJ41YUFP1_rNmRZcuDWFhY/edit?usp=sharing).
 
