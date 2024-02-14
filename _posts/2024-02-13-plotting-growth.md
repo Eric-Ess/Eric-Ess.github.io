@@ -35,6 +35,7 @@ total_juvenile_t <- length(i_treatment_data[i_treatment_data$life.stage == "juve
 mortality/total_j_t
 #juveniles are the only ones that  died as far as i know.
 ```
+mortality/total_j_t comes out to 0.1416667 <br><br>
 
 ![](https://github.com/Eric-Ess/Eric-Ess.github.io/blob/master/post_images/021324/control-growth.png?raw=true)
 
