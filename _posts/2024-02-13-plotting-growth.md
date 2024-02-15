@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plotting growth
-subtitle: Tuesdat
+subtitle: Tuesday
 tags: Thesis
 comments: true
 ---
@@ -23,12 +23,19 @@ i_control_data$month <- factor(i_control_data$month, levels = month_order)
 #plotting
 library(ggplot2)
 ggplot(i_treatment_data, aes(month)) +
-  geom_boxplot(aes(y= length, colour= life.stage)) +
-  ggtitle("Treatment Tank")
-#another!
+    geom_boxplot(aes(y= length, colour= life.stage))+
+    facet_grid(~life.stage)+
+    ggtitle("Treatment Tank")+
+    ylab("Mean Length (mm)")+
+    xlab("Month")
+
 ggplot(i_control_data, aes(month)) +
-  geom_boxplot(aes(y= length, colour= life.stage)) +
-  ggtitle("Control Tank")
+    geom_boxplot(aes(y= length, colour= life.stage)) +
+    facet_grid(~life.stage)+
+    ggtitle("Control Tank")+
+    ylab("Mean Length (mm)")+
+    xlab("Month")
+
 #percent mortality
 total_dead <- length(size_data[size_data$notes == "dead 1-31-24" & size_data$month == "Jan", ]$tag)
 total_juvenile_t <- length(i_treatment_data[i_treatment_data$life.stage == "juvenile", ]$tag)
