@@ -1,7 +1,7 @@
 ---
 layout: post
-title: RT and qPCR
-subtitle: Tuesday
+title: Second Acute Stress
+subtitle: Wednesday
 tags: Thesis
 comments: true
 ---
