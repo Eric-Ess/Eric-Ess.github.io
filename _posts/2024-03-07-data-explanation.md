@@ -5,14 +5,14 @@ subtitle: Experiment and Data Explanation
 tags: Thesis
 comments: true
 ---
-Here is a complete summary of the experiment
+Here is a complete(?) summary of the experiment
 
 ## Oysters
-235 adults, 40-100mm
+235 adults: from Pacific Hybreed, 40-100mm
 - 4 families
   - 30 diploid
   - 30 triploid
-<br> a few missing, hence n≠240. These groups of 30 were given a color or animal name.
+<br> a few missing, hence n≠240. These diploids and triploids are siblings. These groups of 30 were given a color or animal name.
 
 120 juveniles: USDA 2023 spawn, 20-55mm
 
@@ -26,11 +26,11 @@ Half from each group were put into a treatment tank, half into a control tank.
 |-------------------------------------|-------------------------------------|
 | 15 fam1 diploid                     | 15 fam1 diploid                     |
 | 15 fam1 triploid                    | 15 fam1 triploid                    |
-| 15 dam2 diploid                     | 15 dam2 diploid                     |
+| 15 fam2 diploid                     | 15 fam2 diploid                     |
 | 15 fam2 triploid                    | 15 fam2 triploid                    |
 | 15 fam3 diploid                     | 15 fam3 diploid                     |
 | 15 fam3 triploid                    | 15 fam3 triploid                    |
-| 15 dam4 diploid                     | 15 dam4 diploid                     |
+| 15 fam4 diploid                     | 15 fam4 diploid                     |
 | 15 fam4 triploid                    | 15 fam4 triploid                    |
 | 60 juveniles (usda, mixed families) | 60 juveniles (usda, mixed families) |
 | 60 seed (usda, mixed families)      | 60 seed (usda, mixed families)      |
@@ -65,5 +65,5 @@ We repeated this process from 11/21/2023 but with some differences. Namely:
 - Did *not* sample remaining Adults
 - Only gill tissue was taken
 - No mechanical stress
-- all tubes for seed and spat are individuals, no multiple samples from the same oysters
-- flash froze samples for potential proteomic/metabolomic analysis
+- tubes for seed and spat are individuals, no multiple samples from the same oysters. They were too small.
+- flash froze additional samples for potential proteomic/metabolomic analysis
