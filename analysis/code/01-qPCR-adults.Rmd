@@ -1,0 +1,43 @@
+---
+title: "01-qPCR-adults"
+author: "Eric E"
+date: "2024-04-30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# load libraries 
+
+```{r}
+library(tidyverse)
+library("ggplot2")
+```
+
+```{r}
+CT <- c("411-8", "411-8m", "411-9", "411-10")
+TC <- c("412-6m")
+TT <- c()
+CC <- c("411-01", "411-01m", "411-3")
+
+vector_list <- list(CT = CT,
+                    TC = TC,
+                    CC = CC)
+  #                  spat.treated = spat.treated)
+
+vector_list
+```
+
+
+```{r}
+calculate_delta_Cq <- function(df) {
+  df <- df %>%
+    group_by(Sample) %>%
+    mutate(delta_Cq = Cq.Mean - Cq.Mean[Target == "GAPDH"]) %>%
+    ungroup()
+  
+  return(df)
+}
+```
